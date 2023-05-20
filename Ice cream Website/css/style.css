@@ -532,6 +532,23 @@ section{
     }
 
 }
+@media (max-width:991px){
+
+    html{
+        font-size: 55%;
+    }
+
+    section{
+        padding: 3rem 2rem;
+    }
+
+    .home .slide .content{
+        text-align: left;
+        width: 50rem;
+        padding-left: 9rem;
+    }
+
+}
 
 @media (max-width:768px){
 
